@@ -73,7 +73,7 @@ The Climate Resilience Dashboard is a web-based application designed to monitor 
     npm start
     ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the dashboard.
+5. Open [http://localhost:5173](http://localhost:5173) in your browser to view the dashboard.
 
 ---
 
