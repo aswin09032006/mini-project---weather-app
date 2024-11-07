@@ -206,6 +206,7 @@ function App() {
                 placeholder="Search city..."
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
+                style={{color: "black"}}
             />
             <button onClick={searchByCity}>Search</button>
             </div>
