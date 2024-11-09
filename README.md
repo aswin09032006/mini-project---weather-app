@@ -1,8 +1,11 @@
 # Climate Resilience Dashboard
 
+
 ## Overview
 
 The Climate Resilience Dashboard is a web-based application designed to monitor environmental data and provide recommendations to enhance climate resilience. Using real-time weather data, air quality indicators, and interactive features, this tool offers tailored suggestions for health and agricultural practices to help users adapt to changing environmental conditions.
+
+Live Demo:  [Climate Resilience Dashboard](https://mini-project-weather-app-ten.vercel.app/)
 
 ## Table of Contents
 - [Features](#features)
@@ -10,7 +13,6 @@ The Climate Resilience Dashboard is a web-based application designed to monitor 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Overloaded Subprograms for Recommendations](#overloaded-subprograms-for-recommendations)
-- [License](#license)
 
 ---
 
@@ -98,10 +100,5 @@ This approach emulates function overloading by dynamically adjusting the output 
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 For more details and to explore the code, visit the GitHub repository: [Climate Resilience Dashboard](https://github.com/yourusername/Climate-Resilience-Dashboard)
