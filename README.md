@@ -70,7 +70,7 @@ The Climate Resilience Dashboard is a web-based application designed to monitor 
 
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 
 5. Open [http://localhost:5173](http://localhost:5173) in your browser to view the dashboard.
